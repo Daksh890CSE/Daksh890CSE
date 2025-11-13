@@ -1,6 +1,8 @@
 ## I'm Daksh 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh890CSE)](https://github.com/Daksh890CSE/github-readme-stats)
+<img alt="my stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Daksh890CSE&show_icons=true&theme=transparent"/>
+ 
+<img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh890CSE&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent"/>
 <!--
 **Daksh890CSE/Daksh890CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
