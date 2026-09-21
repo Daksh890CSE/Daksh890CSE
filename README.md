@@ -32,7 +32,7 @@
 🚀 Building applications that solve practical, real-world problems
 🧠 Currently strengthening Data Structures & Algorithms
 ☁️ Exploring cloud, APIs, backend systems and modern web technologies
-🎬 3+ years of experience in video editing
+💼 Former Full-Stack Developer Intern @Pinnacle Infotech Solutions
 ```
 
 * 🔭 Currently working on **[Proctored Examination](https://github.com/Daksh890CSE/Proctored-Examination)**
@@ -111,12 +111,12 @@ Interactive campus navigation system designed to help students locate buildings 
 
 <br />
 
-<a href="<!-- REPLACE WITH LIVE DEMO LINK -->">
+<!-- <a href="<!-- REPLACE WITH LIVE DEMO LINK -->">
   <img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-</a>
+</a> -->
 
 <a href="<!-- REPLACE WITH CAMPUS NAVIGATOR REPO LINK -->">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Eaman006/Campus-Navigator)" alt="GitHub Repository" />
 </a>
 
 </td>
@@ -197,41 +197,12 @@ Explore my complete collection of repositories on GitHub.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=daksh890CSE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&ring_color=7aa2f7&rank_icon=github" alt="Daksh's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh890CSE&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" alt="Daksh's Top Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=daksh890CSE&theme=tokyonight&hide_border=true&background=1A1B26&stroke=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=565F89" alt="Daksh's Contribution Streak" />
 
 </div>
 
 <br />
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=daksh890CSE&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Daksh's Contribution Activity Graph" />
-
-</div>
-
----
-
-# 🏆 GitHub Profile
-
-<div align="center">
-
-<a href="https://github.com/Daksh890CSE">
-  <img src="https://github-profile-trophy.vercel.app/?username=daksh890CSE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
 
 # 🤝 Connect With Me
 
@@ -239,14 +210,6 @@ Explore my complete collection of repositories on GitHub.
 
 <a href="https://www.linkedin.com/in/daksh-dugar/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://x.com/<!-- REPLACE WITH YOUR X USERNAME -->">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-
-<a href="https://daksheditz.carrd.co/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="mailto:dakshdugar890@gmail.com">
