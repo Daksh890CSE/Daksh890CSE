@@ -111,12 +111,13 @@ Interactive campus navigation system designed to help students locate buildings 
 
 <br />
 
-<!-- <a href="<!-- REPLACE WITH LIVE DEMO LINK -->">
-  <img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-</a> -->
 
-<a href="<!-- REPLACE WITH CAMPUS NAVIGATOR REPO LINK -->">
-  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Eaman006/Campus-Navigator)" alt="GitHub Repository" />
+
+<a href="https://github.com/Eaman006/Campus-Navigator">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Repository"
+  />
 </a>
 
 </td>
@@ -136,8 +137,11 @@ AI-powered feedback classification project using generative AI models to analyze
 
 <br />
 
-<a href="<!-- REPLACE WITH GENAI PROJECT REPO LINK -->">
-  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository](https://github.com/Daksh890CSE/IBM-Gen-AI-Classifier)" />
+<a href="https://github.com/Daksh890CSE/IBM-Gen-AI-Classifier">
+  <img
+    src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Repository"
+  />
 </a>
 
 </td>
@@ -158,10 +162,6 @@ An examination platform currently under development, focused on creating a struc
 <img src="https://img.shields.io/badge/Java-for--the--badge?style=flat&logo=openjdk&logoColor=white&color=ED8B00" />
 
 <br />
-
-<a href="<!-- REPLACE WITH LIVE DEMO LINK -->">
-  <img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-</a>
 
 <a href="https://github.com/Daksh890CSE/Proctored-Examination">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
