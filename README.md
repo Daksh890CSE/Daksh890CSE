@@ -136,12 +136,8 @@ AI-powered feedback classification project using generative AI models to analyze
 
 <br />
 
-<a href="<!-- REPLACE WITH LIVE DEMO LINK -->">
-  <img src="https://img.shields.io/badge/Live_Demo-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-</a>
-
 <a href="<!-- REPLACE WITH GENAI PROJECT REPO LINK -->">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository](https://github.com/Daksh890CSE/IBM-Gen-AI-Classifier)" />
 </a>
 
 </td>
