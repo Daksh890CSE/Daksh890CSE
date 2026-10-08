@@ -9,9 +9,9 @@
 <h3>Computer Science & Engineering Student • Software Developer • Problem Solver</h3>
 
 <p>
-  <a href="https://github.com/Daksh890CSE">
+  <!-- <a href="https://github.com/Daksh890CSE">
     <img src="https://komarev.com/ghpvc/?username=daksh890CSE&label=PROFILE+VIEWS&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
-  </a>
+  </a> -->
   <a href="https://github.com/Daksh890CSE?tab=followers">
     <img src="https://img.shields.io/github/followers/daksh890CSE?label=FOLLOWERS&style=for-the-badge&color=BB9AF7" alt="GitHub Followers" />
   </a>
